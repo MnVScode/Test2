@@ -1,0 +1,1 @@
+windows.alert('鼻水やばい');
